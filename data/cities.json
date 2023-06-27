@@ -1,30 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -52,37 +28,25 @@
       "cityName": "Queens",
       "country": "United States of America (the)",
       "emoji": "🇺🇸",
-      "date": "2023-06-27T01:53:17.397Z",
-      "notes": "Homeeeee",
+      "date": "2023-06-27T15:56:46.148Z",
+      "notes": "hello",
       "position": {
-        "lat": "40.74023389131268",
-        "lng": "-73.87361526489259"
+        "lat": "40.73763256552795",
+        "lng": "-73.87619018554689"
       },
       "id": 98443199
     },
     {
-      "cityName": "New York City",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2023-06-27T01:55:50.584Z",
-      "notes": "Time Square",
-      "position": {
-        "lat": "40.71551718935035",
-        "lng": "-73.99909973144533"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Halton Hills",
-      "country": "Canada",
-      "emoji": "🇨🇦",
-      "date": "2023-06-27T01:56:37.654Z",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-06-27T16:37:44.427Z",
       "notes": "",
       "position": {
-        "lat": "43.58039085560786",
-        "lng": "-79.98046875000001"
+        "lat": "39.99632286685119",
+        "lng": "0.008411407470703127"
       },
-      "id": 98443201
+      "id": 98443200
     }
   ]
 }
